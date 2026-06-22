@@ -315,18 +315,6 @@ python -m ServiceComputing.scripts.analyze_service_mappo_convergence --help
 - The semantic guidance coefficients are decayed during training to keep the final policy primarily return-optimized.
 - The implementation reports key mobile transmission energy separately from other accounting terms.
 
-## Citation
-
-If this code is useful for your research, please cite the corresponding paper:
-
-```bibtex
-@article{zhu2026ssra_rl,
-  title   = {Service-Semantic Reinforcement Learning for Role-Aware Service-Chain Scheduling in Heterogeneous Mobile Edge Computing},
-  author  = {Zhu, Shengchao and Han, Guangjie and Lin, Chuan and Ma, Yunpeng and Zhou, Yaqin},
-  journal = {IEEE Transactions on Computers},
-  year    = {2026}
-}
-```
 
 ## Acknowledgement
 
